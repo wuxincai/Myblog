@@ -1,4 +1,4 @@
-title: Hello, I'm wuxincai
+title: It's Walker's Blog!
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -6,20 +6,20 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/Myblog" # the subpath of your site, e.g. /blog
 url: "http://wuxincai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+#site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: wuxincai # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: nothing. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+author: Walker # add your name
+author-img: avatar1.jpg # add your photo
+about-author: He has nothing to say... # add description
+#social-twitter: 13709874680 # add your Twitter handle
+#social-facebook: 13709874680 # add your Facebook handle
 social-github: wuxincai # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+#social-linkedin: # add your Linkedin handle
+social-email: m13436993272@163.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: mr-wu # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
@@ -31,7 +31,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-paginate: 8
+paginate: 10
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
