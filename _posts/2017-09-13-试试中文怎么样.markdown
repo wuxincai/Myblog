@@ -7,7 +7,7 @@ img: software.jpg # Add image post (optional)
 tags: [产品经理, 真棒] # add tag
 ---
 
-你永远不动我真心，像白天不动夜的黑！
+你永远不动我真心，像白天不懂夜的黑！
 
 ### 如果爱，请深爱...
 
